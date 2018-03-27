@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522156962 source:c:\users\alumno-e\desktop\bubblepf\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
